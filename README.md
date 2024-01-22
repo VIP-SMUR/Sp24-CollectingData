@@ -20,7 +20,7 @@ You can find output Geometry in [Dropbox](https://www.dropbox.com/scl/fo/hqxrx8n
 
 3. [Open Street Maps (OSM)](https://www.openstreetmap.org/) and [osmnx](https://osmnx.readthedocs.io/en/stable/ )
    
-   For documentation visit https://osmnx.readthedocs.io/en/stable/ 
+   For documentation visit https://wiki.openstreetmap.org/wiki/
    - includes building footprints
    - highways and roads geometry
    - points of interest

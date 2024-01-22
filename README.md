@@ -31,3 +31,9 @@ You can find output Geometry in [Dropbox](https://www.dropbox.com/scl/fo/hqxrx8n
    - LiDAR point clouds
    - Topography
    - Forests
+
+5. Rhino3D & Grasshopper
+   
+   For viewing and manipulating geometry you can use Rhino3D - it has a 90 days trial and a discount for students, you can find it here: https://www.rhino3d.com/download/
+
+   Also, Grasshopper is a visual programming interface inside Rhino and can be integrated with many analytical softwares, some of which can be found here: https://www.food4rhino.com/en 

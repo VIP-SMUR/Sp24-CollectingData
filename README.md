@@ -1,5 +1,3 @@
-##### Some examples of how to request and analyze spatial data
-
 This repository serves as a basic example of how to use packages such as geopandas, folium, osmnx
 
 Data is requested by bounding box in [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System) coordinates.
